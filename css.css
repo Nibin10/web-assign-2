@@ -1,0 +1,52 @@
+h1{
+   color:red;
+
+  }
+img{
+   width:150px;
+   height:150px;
+   }
+body {
+  background-image: url('back.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+h2{
+  color:#1E90FF;
+  }
+td{
+  font-weight: bold;
+  color:yellow;
+  background-color:red;
+  height:75px;
+  text-align: center;
+  }
+h3{
+  color:#1E90FF;
+  }
+th{
+  color:red;
+  background-color:yellow;
+  height:75px;
+  font-weight: bold;
+  }
+li{
+  color:#1E90FF;
+  }
+.center{
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  padding: 10px;
+  background-image: url('sky.webp');
+  background-repeat: no-repeat;
+   }
+ .list{
+  margin: auto;
+  width: 50%;
+
+  padding: 10px;
+  
+   }
+
